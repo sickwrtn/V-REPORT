@@ -1,7 +1,7 @@
 # bubbletap.com
 bubbletap.com에 다음과 같은 취약점이 있었으며 패치되었습니다.
 
-## Boolean-based Blind SQL Injection
+## SQL Injection
 
 사용된 도구 : burp suite professional 2025.1.4v
 
