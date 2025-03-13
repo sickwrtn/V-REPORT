@@ -1,8 +1,8 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=VREPORT&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
-# 2025VREPORT
-2025 사이트 취약점 보고서
+# VREPORT
+사이트 취약점 보고서
 
 ## SICK SAY
 대한민국 보안 생태계가 조금이라도 더 발전되기를 기원하며 
