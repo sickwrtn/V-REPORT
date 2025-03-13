@@ -5,7 +5,7 @@ bubbletap.com에 다음과 같은 취약점이 있었으며 패치되었습니�
 
 사용된 도구 : burp suite professional 2025.1.4v
 
-GET api.bubblechat.ai/users/{userId}/identity-verifications?select=* 중
+문제가 되는 요청 : GET api.bubblechat.ai/users/{userId}/identity-verifications?select=*
 
 select 파라미터에 sqli 구문이 들어갈시
 
