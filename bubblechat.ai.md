@@ -7,7 +7,7 @@ bubbletap.com에 다음과 같은 취약점이 있었으며 패치되었습니�
 
 GET api.bubblechat.ai/users/{userId}/identity-verifications?select=* 중
 
-select 파라미터에 ' 키워드가 들어갈시
+select 파라미터에 sqli 구문이 들어갈시
 
 ```json
 {
