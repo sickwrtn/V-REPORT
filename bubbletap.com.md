@@ -11,8 +11,7 @@ select 파라미터에 ' 키워드가 들어갈시
 {
   "statusCode":500,
   "code":"TYPEORM_QUERY_ERROR",
-  "message":["You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' FROM           
-  `user_identity_verifications` `user_identity_verifications` LEFT JOIN `us' at line 1"],
+  "message":["You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' FROM     `user_identity_verifications` `user_identity_verifications` LEFT JOIN `us' at line 1"],
   "data":{}
 }
 ```
