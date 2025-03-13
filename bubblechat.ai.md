@@ -22,4 +22,4 @@ select 파라미터에 ' 키워드가 들어갈시
 
 **Boolean-based Blind SQL injection** 취약점과 **Time-based Blind SQL injection** 이 발견되었습니다.
 
-해당 문제는 bubblechat 사측에 전달되었으며 패치되었습니다.
+해당 문제는 bubblechat.ai 사측에 전달되었으며 패치되었습니다.
