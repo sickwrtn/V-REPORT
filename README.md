@@ -1,7 +1,7 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=V-REPORT&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 
-# VREPORT
+# V-REPORT
 사이트 취약점 보고서
 
 ## SICK SAY
