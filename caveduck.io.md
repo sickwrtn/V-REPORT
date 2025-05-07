@@ -12,14 +12,18 @@ Secret Key : helloworld (Brute Force 된 Jwt Secret Key)
 
 해당 Jwt 토큰은 쿠키의 auth_token 으로써 세션토큰의 역할을 수행했었습니다.
 
-```HEADER
+## HEADER
+
+```
 {
   "alg": "HS256",
   "typ": "JWT"
 }
 ```
 
-```PAYLOAD
+## PAYLOAD
+
+```
 {
   "id": 3276221,
   "email": "sillo070607@gmail.com",
