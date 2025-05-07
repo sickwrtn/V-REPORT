@@ -1,5 +1,5 @@
 # caveduck.io
-elyn.ai 다음과 같은 취약점이 있었으며 패치되었습니다.
+caveduck.io 다음과 같은 취약점이 있었으며 패치되었습니다.
 
 # HMCA Jwt Verify Weak Signature Secret Key
 KST 2025-05-07 AM 11:53 (UTC+9:00) 시각에 해당 보안 취약점을 발견했으며 보고했습니다.
@@ -17,6 +17,7 @@ Secret Key : helloworld (Brute Force 된 Jwt Secret Key)
   "alg": "HS256",
   "typ": "JWT"
 }
+```
 
 ```PAYLOAD
 {
